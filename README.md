@@ -1,5 +1,7 @@
 # hello-world
-exploring 
+exploring...
+
+
 hi there!
 
 i like machine learning and my obsession is python.
